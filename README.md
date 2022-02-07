@@ -57,7 +57,13 @@ listen_port=990
 
 **And for insecure (without certs)**
 
-Just add this 
+Change ssl_enable=YES
+
+to ⬇️
+
+ssl_enable=NO
+
+**And add this**
 
 pasv_enable=YES
 
