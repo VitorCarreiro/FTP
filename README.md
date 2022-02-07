@@ -61,8 +61,10 @@ Just add this
 
 pasv_enable=YES
 
-pasv_min_port=10000 (The port you add here you have to enable it on the firewall)
+pasv_min_port=10000
 
 pasv_max_port=10100
+
+systemctl restart vsftpd.service
 
 **And your done!**
