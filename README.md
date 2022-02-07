@@ -29,7 +29,7 @@ Now add these lines ⬇️
 
 pasv_enable=YES
 
-pasv_min_port=10000 (The port you add here you have to enable it on the firewall)
+pasv_min_port=10000 (The port you add here you have to enable it on the firewall along with the others)
 
 pasv_max_port=10100
 
