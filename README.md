@@ -1,4 +1,4 @@
-# FTP Config for ubuntu
+# vsftpd Config for ubuntu
 
 **Install FTP** ➡️ *apt install vsftpd*
 
